@@ -3,6 +3,9 @@
 
 This project simulates Delay-Tolerant Networking (DTN), a type of network designed to operate effectively over extreme distances such as those encountered in space communications or in environments with intermittent connectivity.
 
+## Author 
+**Umma Jarin Toba**
+
 ## Project Files
 
 - `dtn_simulator.py` — The main Python script containing the logic for nodes, data transmission, and forwarding.
