@@ -38,3 +38,14 @@ This code can be extended to real-world applications by implementing actual netw
 ## Contact
 
 If you have any questions or feedback about the project, feel free to reach out.
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for more details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
+© 2025 Umma Jarin Toba
+
